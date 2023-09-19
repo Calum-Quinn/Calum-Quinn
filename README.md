@@ -1,4 +1,4 @@
-## Guillaume Github profile
+## Gwendal Github profile
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
