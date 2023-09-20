@@ -1,4 +1,5 @@
 ## Calum Quinn's profile Github
-   Actually studying at the [HEIG-VD](https://heig-vd.ch/)
+   Currently studying at the [HEIG-VD](https://heig-vd.ch/)
+   Working at [Symbios Orthopédie SA](symbios.ch).
 
 ![](./profile-3d-contrib/profile-night-green.svg)
